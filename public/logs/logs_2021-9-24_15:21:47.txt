@@ -1,0 +1,127 @@
+Web Scraping made by FED team
+Reporter: Jenrry Coredero
+Report Date -> 2021-9-24_15:21:47
+
+METADATA:
+Page Title: Federal Reserve Bank of San Francisco | Why Climate Risk Matters to Us
+Page URL: https://www.frbsf.org/our-district/about/climate-risk/
+Page Description: How is climate risk connected to the San Francisco Fed’s mission? ​The Federal Reserve’s job is to promote a healthy, stable economy.
+
+LINKS (<a>) total 92 :
+https://www.frbsf.org/privacy/online-privacy-notice/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/our-district/about/climate-risk/#content
+https://www.frbsf.org/
+https://www.frbsf.org/?utm_source=frbsf-nav-menu&utm_medium=frbsf&utm_campaign=rebrand
+https://www.frbsf.org/economic-research/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/economic-research/economists/
+https://www.frbsf.org/economic-research/publications/
+https://www.frbsf.org/economic-research/indicators-data/
+https://www.frbsf.org/economic-research/center-pacific-basin-studies/
+https://www.frbsf.org/economic-research/events/
+https://www.frbsf.org/economic-research/events/virtual-seminar-on-climate-economics/
+https://www.frbsf.org/economic-research/research-spotlight/
+https://www.frbsf.org/economic-research/about/
+https://www.frbsf.org/banking/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/banking/regulation/
+https://www.frbsf.org/banking/discount-window/
+https://www.frbsf.org/banking/data/
+https://www.frbsf.org/banking/publications/
+https://www.frbsf.org/banking/programs/
+https://www.frbsf.org/banking/asia-program/
+https://www.frbsf.org/banking/fintech/
+https://www.frbsf.org/banking/about/
+https://www.frbsf.org/education/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/education/teacher-resources/
+https://www.frbsf.org/education/activities/
+https://www.frbsf.org/education/about/
+https://www.frbsf.org/community-development/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/community-development/publications/
+https://www.frbsf.org/community-development/data/
+https://www.frbsf.org/community-development/events/
+https://www.frbsf.org/community-development/initiatives/
+https://www.frbsf.org/community-development/blog/
+https://www.frbsf.org/community-development/about/
+https://www.frbsf.org/cash/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/cash/cash-how-we-use-it/
+https://www.frbsf.org/cash/cash-lifecycle/
+https://www.frbsf.org/cash/publications/
+https://www.frbsf.org/cash/federal-reserve-role-cash-distribution/
+https://www.frbsf.org/our-district/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.frbsf.org/our-district/about/
+https://www.frbsf.org/our-district/leadership/
+https://www.frbsf.org/our-district/events/
+https://www.frbsf.org/our-district/careers/
+https://www.frbsf.org/our-district/press/
+https://www.frbsf.org/our-district/about/sf-fed-blog/
+https://www.frbsf.org/our-district/about/unreserved/
+https://www.frbsf.org/our-district/subscriptions/
+https://www.frbsf.org/our-district/about/climate-risk/#
+https://www.federalreserve.gov/
+https://www.frbatlanta.org/
+https://www.bos.frb.org/
+https://www.chicagofed.org/
+https://www.clevelandfed.org/
+https://www.dallasfed.org/
+https://www.kansascityfed.org/
+https://www.minneapolisfed.org/
+https://www.newyorkfed.org/
+https://www.philadelphiafed.org/
+https://www.richmondfed.org/
+https://www.stlouisfed.org/
+https://www.frbsf.org/our-district/
+https://www.frbsf.org/our-district/about/
+https://www.frbsf.org/our-district/about/sf-fed-blog/video-climate-change-economic-issue/
+https://www.frbsf.org/economic-research/
+https://www.ngfs.net/en
+https://www.frbsf.org/community-development/blog/strategies-for-equitable-climate-finance/
+https://www.frbsf.org/economic-research/publications/economic-letter/2019/march/climate-change-and-federal-reserve/
+https://www.frbsf.org/economic-research/events/2019/november/economics-of-climate-change/
+https://www.frbsf.org/banking/
+https://www.frbsf.org/community-development/
+https://www.frbsf.org/our-district/press/presidents-speeches/mary-c-daly/2021/june/climate-risk-and-the-fed-preparing-for-an-uncertain-certainty
+https://www.frbsf.org/economic-research/publications/economic-letter/2021/june/economy-response-to-potential-climate-policy/
+https://www.frbsf.org/our-district/about/sf-fed-blog/video-how-does-wildfire-risk-affect-economy/
+https://www.frbsf.org/economic-research/publications/economic-letter/2021/february/climate-change-is-source-of-financial-risk/
+https://www.frbsf.org/economic-research/events/2021/july/tamma-carleton-climate-seminar/
+https://www.frbsf.org/community-development/events/2021/july/addressing-climate-risk-through-equitable-community-development/
+https://www.frbsf.org/economic-research/events/2021/july/ivan-rudik-climate-seminar/
+https://www.frbsf.org/economic-research/events/2021/september/kyle-meng-climate-economics-seminar/
+https://www.frbsf.org/economic-research/events/2021/september/thomas-stoerk-climate-economics-seminar/
+mailto:sf.climate@sf.frb.org
+mailto:Tom.Flannigan@sf.frb.org?subject=Media%20Inquiry:%20Climate%20Risk
+https://www.frbsf.org/site-policies
+https://www.frbsf.org/privacy
+https://www.frbsf.org/our-district/contact-us
+https://www.frbsf.org/our-district/careers
+
+IMAGES (<img>) total 11 :
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/search.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/microphone.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/record.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/record-levels.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/icons/icon-menu.png
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/icons/icon-menu.png
+https://www.frbsf.org/our-district/about/climate-risk/files/climate-risk-initiative-page-banner-1024x269-1.jpg
+https://www.frbsf.org/our-district/about/climate-risk/files/our-focus-areas-research-325a.png
+https://www.frbsf.org/our-district/about/climate-risk/files/our-focus-areas-supervision-325.png
+https://www.frbsf.org/our-district/about/climate-risk/files/our-focus-areas-community-325.png
+https://www.frbsf.org/our-district/about/climate-risk/files/our-focus-areas-operations-325.png
+
+HEADINGS (only <h2>) total 6 :
+How is climate risk connected to the San Francisco Fed’s mission?
+What are the economic impacts of climate risk?
+How we’re responding to climate risk
+Recent Publications
+Events
+Questions?
+
+Time Spent: 4882 MS
+
+ 

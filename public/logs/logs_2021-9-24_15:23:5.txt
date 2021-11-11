@@ -1,0 +1,117 @@
+Web Scraping made by FED team
+Reporter: Jenrry Coredero
+Report Date -> 2021-9-24_15:23:5
+
+METADATA:
+Page Title: Federal Reserve Bank of San Francisco | Our District
+Page URL: https://www.frbsf.org/our-district/
+Page Description: San Francisco is the headquarters of the Twelfth Federal Reserve District, which includes the nine western states—Alaska, Arizona, California, Hawaii, Idaho, Nevada, Oregon, Utah, and Washington—plus American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands. Of the twelve Federal Reserve Districts, the Twelfth District is the largest by geography and the size of its economy.
+
+LINKS (<a>) total 85 :
+https://www.frbsf.org/privacy/online-privacy-notice/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/our-district/#content
+https://www.frbsf.org/
+https://www.frbsf.org/?utm_source=frbsf-nav-menu&utm_medium=frbsf&utm_campaign=rebrand
+https://www.frbsf.org/economic-research/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/economic-research/economists/
+https://www.frbsf.org/economic-research/publications/
+https://www.frbsf.org/economic-research/indicators-data/
+https://www.frbsf.org/economic-research/center-pacific-basin-studies/
+https://www.frbsf.org/economic-research/events/
+https://www.frbsf.org/economic-research/events/virtual-seminar-on-climate-economics/
+https://www.frbsf.org/economic-research/research-spotlight/
+https://www.frbsf.org/economic-research/about/
+https://www.frbsf.org/banking/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/banking/regulation/
+https://www.frbsf.org/banking/discount-window/
+https://www.frbsf.org/banking/data/
+https://www.frbsf.org/banking/publications/
+https://www.frbsf.org/banking/programs/
+https://www.frbsf.org/banking/asia-program/
+https://www.frbsf.org/banking/fintech/
+https://www.frbsf.org/banking/about/
+https://www.frbsf.org/education/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/education/teacher-resources/
+https://www.frbsf.org/education/activities/
+https://www.frbsf.org/education/about/
+https://www.frbsf.org/community-development/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/community-development/publications/
+https://www.frbsf.org/community-development/data/
+https://www.frbsf.org/community-development/events/
+https://www.frbsf.org/community-development/initiatives/
+https://www.frbsf.org/community-development/blog/
+https://www.frbsf.org/community-development/about/
+https://www.frbsf.org/cash/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/cash/cash-how-we-use-it/
+https://www.frbsf.org/cash/cash-lifecycle/
+https://www.frbsf.org/cash/publications/
+https://www.frbsf.org/cash/federal-reserve-role-cash-distribution/
+https://www.frbsf.org/our-district/
+https://www.frbsf.org/our-district/#
+https://www.frbsf.org/our-district/about/
+https://www.frbsf.org/our-district/leadership/
+https://www.frbsf.org/our-district/events/
+https://www.frbsf.org/our-district/careers/
+https://www.frbsf.org/our-district/press/
+https://www.frbsf.org/our-district/about/sf-fed-blog/
+https://www.frbsf.org/our-district/about/unreserved/
+https://www.frbsf.org/our-district/subscriptions/
+https://www.frbsf.org/our-district/#
+https://www.federalreserve.gov/
+https://www.frbatlanta.org/
+https://www.bos.frb.org/
+https://www.chicagofed.org/
+https://www.clevelandfed.org/
+https://www.dallasfed.org/
+https://www.kansascityfed.org/
+https://www.minneapolisfed.org/
+https://www.newyorkfed.org/
+https://www.philadelphiafed.org/
+https://www.richmondfed.org/
+https://www.stlouisfed.org/
+https://www.frbsf.org/our-district/about/key-facts/
+https://www.frbsf.org/our-district/about/our-history/
+https://www.frbsf.org/our-district/about/office-minority-women-inclusion/
+https://www.frbsf.org/our-district/leadership/office-of-the-president/
+https://www.frbsf.org/our-district/leadership/
+https://www.frbsf.org/our-district/about/unreserved/?utm_source=frbsf-ourdistrict-unreserved-logo&utm_medium=frbsf&utm_campaign=unreserved
+https://www.frbsf.org/our-district/about/unreserved/areeba-yasin/?utm_source=frbsf-ourdistrict-unreserved-image&utm_medium=frbsf&utm_campaign=unreserved
+https://www.frbsf.org/our-district/about/unreserved/areeba-yasin/?utm_source=frbsf-ourdistrict-unreserved-title&utm_medium=frbsf&utm_campaign=unreserved
+https://www.frbsf.org/our-district/about/unreserved/areeba-yasin/?utm_source=frbsf-ourdistrict-unreserved-more&utm_medium=frbsf&utm_campaign=unreserved
+https://www.frbsf.org/our-district/careers/
+https://www.frbsf.org/our-district/careers/
+https://www.frbsf.org/our-district/careers/
+https://www.frbsf.org/our-district/about/sf-fed-blog/
+https://www.frbsf.org/our-district/press/
+https://www.frbsf.org/site-policies
+https://www.frbsf.org/privacy
+https://www.frbsf.org/our-district/contact-us
+https://www.frbsf.org/our-district/careers
+
+IMAGES (<img>) total 11 :
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/search.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/microphone.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/record.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/record-levels.svg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/icons/icon-menu.png
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/icons/icon-menu.png
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/our-district-hero-img.jpg
+https://www.frbsf.org/wp-content/blogs.dir/1/files/areeba-yasin-unreserved-family-mosque.jpg
+https://www.frbsf.org/wp-content/blogs.dir/1/files/header-1.jpg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/our-district-sf-fed-blog.jpg
+https://www.frbsf.org/wp-content/themes/sf_fed_rebrand_2015/library/images/our-district-in-the-media.jpg
+
+HEADINGS (only <h2>) total 3 :
+Office of the President
+#unreserved
+Work for the Fed
+
+Time Spent: 4070 MS
+
+ 
